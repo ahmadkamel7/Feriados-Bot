@@ -27,4 +27,6 @@ O perfil do Bot no Twitter é [@feriadosbot](https://twitter.com/feriadosbot) e 
 
 Este bot só foi capaz de ser construído através do auxílio [deste tutorial no YouTube](https://www.youtube.com/watch?v=2UBcRiddwAo&t=331s&ab_channel=Indently), que tornou muito mais esclarecedor a burocracia exigida pelo Twitter para ter um bot na plataforma funcionando efetivamente.
 
+No final de 2023, a API do twitter passou por atualizações e, por conta disso, foi-se necessário adaptar o código. Essa tarefa foi concluída através [deste tutorial](https://www.youtube.com/watch?v=Vk9TY3qNdr8&t=1261s&ab_channel=Simplilearn) e o formato antigo ainda permanece comentado a efeitos de comparação.
+
 Além do tutorial, o bot foi concluído com êxito graças ao desenvolvedor [Arthur](https://github.com/ArthurSMg), criador do [@SpFerias](https://twitter.com/SpFerias), grande inspiração deste projeto. Arthur ajudou com esclarecimentos sobre algumas questões de como funciona o Twitter e, principalmente, com a hospedagem do código. Obrigado, Arthur!
